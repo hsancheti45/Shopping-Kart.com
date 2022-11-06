@@ -1,0 +1,32 @@
+.card img {
+    width: 150px;
+    height: 125px;
+}
+
+.card {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.card p {
+    width: 150px;
+    text-align: center;
+}
+
+.card .quantity {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 150px;
+}
+
+.card .quantity button {
+    width: 30px;
+    margin-left: 0px;
+    font-weight: bold;
+}
+
+.card .quantity p {
+    width: 30px;
+}

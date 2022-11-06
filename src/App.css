@@ -1,0 +1,14 @@
+.div-root {
+  background-color: #fff6f4;
+}
+
+button {
+  background: tomato;
+  border: none;
+  cursor: pointer;
+  outline: none;
+  color: #fff;
+  font-size: 16px;
+  padding: 10px;
+  border-radius: 8px;
+}
